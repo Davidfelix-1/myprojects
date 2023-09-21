@@ -9,3 +9,4 @@ if daily_schedule == in_after_noon:
 if daily_schedule == by_evening:
     print(by_evening)
 
+# rewrite this to if-else statement, then group the work in folders sir 
